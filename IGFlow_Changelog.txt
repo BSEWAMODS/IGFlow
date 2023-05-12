@@ -1,12 +1,18 @@
-{"version_code":366409600,"content":"
-<p>InstaFlow Update V11</p>
+{"version_code":367608479,"content":"
+<p>InstaFlow update v12</p>
 
 
-<li>.........</li>
+<li>New Based on 276.1.0.26.103 (Playstore)</li>
+<li>[Redesigned] InstaFlow settings menu</li>
+<li>[Exclusive] Privacy option - Hide (You took screenshot)</li>
+<li>[Added] Option to add a custom background on the conversation screen</li>
+<li>[Added] Icon to change the color of the theme in the feed</li>
+<li>[Removed] Option for 60 second stories</li>
+<li>[Removed] Option to select custom download path</li>
 
 
 
 
 
-","url":"URL LINK"
+","url":"https://t.me/instaflowupdates/63"
 }
