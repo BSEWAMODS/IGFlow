@@ -1,16 +1,19 @@
-{"version_code":368706648,"content":"
-<p>InstaFlow update v13.10 FIX</p>
+{"version_code":370211667,"content":"
+<p>InstaFlow update v14</p>
 
 
-<li>New Based on 287.0.0.25.77 (Playstore)</li>
-<li>[Super Exclusive] Import Developer Mode Settings (Thanks to BSEWAMODS for the code)</li>
-<li>[Super Exclusive] Export Developer Mode Settings (Thanks to BSEWAMODS for the code)</li>
-<li>[Enabled] Swipe to reply to a message</li>
-<li>[Removed] Option to hide the store icon</li>
+<li>[Updated base] Version based on 302.1.0.36.111</li>
+<li>[Added] Option - Mark as seen in DM</li>
+<li>[Removed] Option to place a background on the Messenger (DM) conversation screen</li>
+<li>[Removed] Zooming photos in posts with long press</li>
+<li>[Eliminated] 3 multimedia mod options (They no longer fulfilled any function)</li>
+<li>[Improved] Now you can create different developer mode backups</li>
+<li>[Improved] You can now select the developer mode backup file from any mod location</li>
+<li>[Note] The mod will now only have support for Arm64-v8a architecture</li>
 
 
 
 
 
-","url":"https://t.me/instaflowupdates/97"
+","url":"https://t.me/instaflowupdates/170"
 }
