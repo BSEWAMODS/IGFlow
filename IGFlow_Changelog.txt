@@ -1,18 +1,16 @@
-{"version_code":0,"content":"
-<p>InstaFlow update v14.10 FIX</p>
+{"version_code":371211141,"content":"
+<p>Update InstaFlow V15</p>
 
 
-<li>[Updated base] Version based on 302.1.0.36.111</li>
-<li>[Added] Option - Mark as seen in DM</li>
-<li>[Removed] Option to place a background on the Messenger (DM) conversation screen</li>
-<li>[Removed] Zooming photos in posts with long press</li>
-<li>[Eliminated] 3 multimedia mod options (They no longer fulfilled any function)</li>
-<li>[Improved] Now you can create different developer mode backups</li>
-<li>[Improved] You can now select the developer mode backup file from any mod location</li>
+<li>[Updated base] Version based on 312.1.0.34.111</li>
+<li>[Added] Option - hide download icon in posts</li>
+<li>[Added] Option - Facebook style stories</li>
+<li>[Improved] Option - (Copy comments / Translate comments)</li>
+<li>[Redesign] InstaFlow options menu</li>
 
 
 
 
 
-","url":"https://t.me/instaflowupdates/176"
+","url":"https://www.youtube.com/watch?v=JazENgO7T3k"
 }
