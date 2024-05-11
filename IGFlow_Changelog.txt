@@ -1,16 +1,18 @@
-{"version_code":371211141,"content":"
-<p>Update InstaFlow V15</p>
+{"version_code":372509487,"content":"
+<p>Update InstaFlow V16</p>
 
 
-<li>[Updated base] Version based on 312.1.0.34.111</li>
-<li>[Added] Option - hide download icon in posts</li>
-<li>[Added] Option - Facebook style stories</li>
-<li>[Improved] Option - (Copy comments / Translate comments)</li>
-<li>[Redesign] InstaFlow options menu</li>
+<li>[Updated base] Version based on 325.0.0.35.91</li>
+<li>[Added] Option to place a background in a conversation</li>
+<li>[Added] Option to download backup from instaflow server</li>
+<li>[Removed] Option to disable automatic story skip</li>
+<li>[Removed] Option to activate airplane mode in DM</li>
+<li>[Removed] Option to hide stories in the feed</li>
+<li>[Temporarily removed] Copy and translate comments</li>
 
 
 
 
 
-","url":"https://www.youtube.com/watch?v=JazENgO7T3k"
+","url":"https://t.me/instaflowupdates/198"
 }
