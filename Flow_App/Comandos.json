@@ -6,6 +6,7 @@
 		"description_en": "hola",
 		"description_es": "Hola",
 		"description_pt": "Hola",
+		"base": "223",
 		"srcImgs": [
 			"...",
 			"...",
