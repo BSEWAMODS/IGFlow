@@ -1,5 +1,5 @@
 {"version_code":373011104,"content":"
-<p>༺☆༻ UPDATE | InstaFlow V17༺☆༻ </p>
+<p>༺☆༻ UPDATE | InstaFlow V17 ༺☆༻ </p>
 
 
 <li>[Updated base] Version based on 330.0.0.40.92</li>
