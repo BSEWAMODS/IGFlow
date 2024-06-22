@@ -1,18 +1,15 @@
-{"version_code":372509487,"content":"
-<p>Update InstaFlow V16</p>
+{"version_code":373011104,"content":"
+<p>༺☆༻ UPDATE | InstaFlow V17༺☆༻ </p>
 
 
-<li>[Updated base] Version based on 325.0.0.35.91</li>
-<li>[Added] Option to place a background in a conversation</li>
-<li>[Added] Option to download backup from instaflow server</li>
-<li>[Removed] Option to disable automatic story skip</li>
-<li>[Removed] Option to activate airplane mode in DM</li>
-<li>[Removed] Option to hide stories in the feed</li>
-<li>[Temporarily removed] Copy and translate comments</li>
-
+<li>[Updated base] Version based on 330.0.0.40.92</li>
+<li>[Added] Option to hide copy icon description</li>
+<li>[Added] Icon to copy description of publications</li>
+<li>[Improved] Option for custom font (Neon)</li>
+<li>[Improved] Option to disable ads</li>
 
 
 
 
-","url":"https://youtu.be/j79vVncEBZc"
+","url":"https://youtu.be/5pS5z2vqzfU"
 }
