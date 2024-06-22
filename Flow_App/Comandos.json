@@ -19,7 +19,7 @@
 		]
 	},
 	{
-		"id": 1,
+		"id": 2,
 		"command_name": "Hola",
 		"isNew": false,
 		"description_en": "hola",
@@ -38,7 +38,7 @@
 		]
 	},
 	{
-		"id": 1,
+		"id": 3,
 		"command_name": "Hola",
 		"isNew": false,
 		"description_en": "hola",
