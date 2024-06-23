@@ -1,8 +1,8 @@
 [
 	{
 		"id": 1,
-		"command_name": "Hola",
-		"isNew": false,
+		"command_name": "Comando 1",
+		"isNew": true,
 		"description_en": "hola",
 		"description_es": "Hola",
 		"description_pt": "Hola",
@@ -20,7 +20,7 @@
 	},
 	{
 		"id": 2,
-		"command_name": "Hola",
+		"command_name": "Comando 2",
 		"isNew": false,
 		"description_en": "hola",
 		"description_es": "Hola",
@@ -39,8 +39,8 @@
 	},
 	{
 		"id": 3,
-		"command_name": "Hola",
-		"isNew": false,
+		"command_name": "Comando 3",
+		"isNew": true,
 		"description_en": "hola",
 		"description_es": "Hola",
 		"description_pt": "Hola",
